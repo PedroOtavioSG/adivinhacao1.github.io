@@ -1,0 +1,55 @@
+body {
+  font-family: Lucida Console	 , sans-serif;
+  margin: 20px;
+  background-color: #B0C4DE;
+  padding: 30px 250px;
+  text-align: center;
+  
+}
+
+h1 {
+  
+	color: black;
+	font-family: Times New Roman,sans-serif;
+	font-size:32px;
+	background-color: CornflowerBlue;
+	border: 2px solid black;
+	margin:40px;
+	padding:50px;
+	text-align: center;
+}
+
+p {
+	font-size: 23px;
+  text-align: center;
+  margin-bottom: 30px;
+  color: #000000;
+}
+
+input[type="number"] {
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 16px;
+  background-color: #333;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #2F4F4F;
+   box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24), 0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+#result {
+  font-size: 20px;
+  font-weight: bold;
+  margin-top: 10px;
+  text-align: center;
+}
+ 
